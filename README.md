@@ -1,4 +1,4 @@
-# funni-chromatics
+# funni chromatics (by stilic)
 
 chromatics i did during my entire life......
 
