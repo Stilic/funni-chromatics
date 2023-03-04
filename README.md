@@ -6,4 +6,4 @@ chromatics i did during my entire life......
 
 - melodyne
 - fl studio
-- (sometimes) audacity
+- audacity
